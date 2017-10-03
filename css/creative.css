@@ -98,7 +98,7 @@ body {
     color: #222222; }
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus,
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
-    font-size: 13px;
+    font-size: 20px;
     font-weight: 700;
     text-transform: uppercase;
     color: #222222; }
@@ -147,7 +147,7 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-  background-image: url("../img/header.jpg");
+  /*background-image: url("../img/header.jpg");*/
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
